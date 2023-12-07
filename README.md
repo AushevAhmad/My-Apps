@@ -1,4 +1,4 @@
-# MyApps
+# My Apps
 All my apps that i use on my mac:
 
 Raycast (Free and open-source)
