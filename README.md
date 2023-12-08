@@ -7,8 +7,6 @@ Pixelmator Pro (25$)
 
 Dropover (5$)
 
-Little Snitch (69€)
-
 Pixelmator Pro (25$)
 
 Arc Browser (Free)
@@ -31,7 +29,7 @@ Zoom(Free)
 
 Al Dente(Free)
 
-Runcat(Free)
+¡Statistica Pro(10$)
 
 Keka(Free and open-source)
 
