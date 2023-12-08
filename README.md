@@ -19,7 +19,7 @@ CleanShot X (29$ or 8$ per month)
 
 Rectangle (Free and open-source)
 
-Kitty (Free and open-source)
+iTerm2 (Free and open-source)
 
 KeePass XC (Free and open-source)
 
