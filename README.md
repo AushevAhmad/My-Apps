@@ -37,4 +37,4 @@ Keka(Free and open-source)
 
 Alt-tab(Free and open-source)
 
-Simplenote(Free)
+Craft(Free)
