@@ -1,38 +1,36 @@
 # My Apps
 All my apps that i use on my mac:
 
-Raycast (Free and open-source)
+[Raycast](https://raycast.com) (Free)
 
-Pixelmator Pro (25$)
+[Pixelmator Pro](https://www.pixelmator.com/pro/) (25$)
 
-Dropover (5$)
+[Dropover](dropoverapp.com) (5$)
 
-Pixelmator Pro (25$)
+[Arc Browser](arc.net) (Free)
 
-Arc Browser (Free)
+[IINA](iina.io) (Free and open-source)
 
-IINA (Free and open-source)
+[CleanShot X](cleanshot.com) (29$ or 8$ per month)
 
-CleanShot X (29$ or 8$ per month)
+[Rectangle](rectangleapp.com) (Free and open-source)
 
-Rectangle (Free and open-source)
+[iTerm2](iterm2.com) (Free and open-source)
 
-iTerm2 (Free and open-source)
+[KeePass XC](keepassxc.org) (Free and open-source)
 
-KeePass XC (Free and open-source)
+[Bartender 4](macbartender.com) (15$)
 
-Bartender 4(15$)
+[Multi](multiapp.com) (Free)
 
-Multi(Free)
+[Zoom](zoom.us) (Free)
 
-Zoom(Free)
+[Al Dente](apphousekitchen.com) (Free)
 
-Al Dente(Free)
+[¡Statistica Pro](https://www.imagetasks.com/istatistica/pro/) (10$)
 
-¡Statistica Pro(10$)
+[Keka](keka.io) (Free and open-source)
 
-Keka(Free and open-source)
+[Alt-tab](https://alt-tab-macos.netlify.app/) (Free and open-source)
 
-Alt-tab(Free and open-source)
-
-Craft(Free)
+[Craft](craft.do) (Free)
