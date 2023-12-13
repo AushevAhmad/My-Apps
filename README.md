@@ -1,7 +1,7 @@
 # My Apps
 All my apps that i use on my mac:
 
-[Raycast](raycast.com) (Freemium)
+[Raycast](https://raycast.com/) (Freemium)
 
 [Pixelmator Pro](https://www.pixelmator.com/pro/) (25$)
 
