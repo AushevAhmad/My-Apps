@@ -11,7 +11,15 @@ All my apps that i use on my mac:
 
 [IINA](iina.io) (Free and open-source)
 
-[Python](https://python.org/) (Free)
+[Visual Studio Code](https://code.visualstudio.com/) (Free and open-source)
+
+[Espanso](https://espanso.org/) (Free and open-source)
+
+[MacGPT](https://www.macgpt.com/) (Free)
+
+
+
+[Mos](https://mos.caldis.me/) (Free and open-source)
 
 [CleanShot X](cleanshot.com) (29$ or 8$ per month)
 
@@ -28,6 +36,8 @@ All my apps that i use on my mac:
 [Funter](https://nektony.com/funter)
 
 [Bartender 4](macbartender.com) (15$)
+
+[TextSniper](https://www.textsniper.app/) (8$ on dev. website and 12$ in Mac App Store)
 
 [Multi](multiapp.com) (Free)
 
