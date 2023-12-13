@@ -17,8 +17,6 @@ All my apps that i use on my mac:
 
 [MacGPT](https://www.macgpt.com/) (Free)
 
-
-
 [Mos](https://mos.caldis.me/) (Free and open-source)
 
 [CleanShot X](cleanshot.com) (29$ or 8$ per month)
@@ -33,7 +31,7 @@ All my apps that i use on my mac:
 
 [Bitwarden](https://bitwarden.com/) (Freemium)
 
-[Funter](https://nektony.com/funter)
+[Funter](https://nektony.com/funter) (Free)
 
 [Bartender 4](macbartender.com) (15$)
 
