@@ -11,6 +11,8 @@ All my apps that i use on my mac:
 
 [IINA](https://iina.io/) (Free and open-source)
 
+[AppCleaner](https://freemacsoft.net/appcleaner/) (Free)
+
 [Visual Studio Code](https://code.visualstudio.com/) (Free and open-source)
 
 [Espanso](https://espanso.org/) (Free and open-source)
