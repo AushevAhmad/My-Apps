@@ -17,7 +17,7 @@ All my apps that i use on my mac:
 
 [AppCleaner](https://freemacsoft.net/appcleaner/)-Deletes app with all leftovers (Free)
 
-[Visual Studio Code](https://code.visualstudio.com/)-Code editor (Free)
+[Cursor](https://cursor.sh/)-Code editor (Freemium)
 
 [Espanso](https://espanso.org/)-Text expander (Free)
 
