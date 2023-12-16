@@ -19,8 +19,6 @@ All my apps that i use on my mac:
 
 [Cursor](https://cursor.sh/)-Code editor (Freemium)
 
-[Espanso](https://espanso.org/)-Text expander (Free)
-
 [MacGPT](https://www.macgpt.com/)-ChatGPT but native (Free)
 
 [Mos](https://mos.caldis.me/)-Smooth scroll (Free)
