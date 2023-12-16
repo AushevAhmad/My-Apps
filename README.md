@@ -1,54 +1,48 @@
 # My Apps
 All my apps that i use on my mac:
 
-[Raycast](https://raycast.com/) (Freemium)
+[Raycast](https://raycast.com/)-Better Spotlight(Freemium)
 
-[Pixelmator Pro](https://www.pixelmator.com/pro/) (25$)
+[Pixelmator Pro](https://www.pixelmator.com/pro/)-Photo editor (25$)
 
-[Dropover](https://dropoverapp.com/) (5$)
+[Dropover](https://dropoverapp.com/)-Better drag&drop (5$)
 
-[Arc Browser](https://arc.net/) (Free)
+[Spotify](https://spotify.com)-Music streaming service (Freemium)
 
-[IINA](https://iina.io/) (Free and open-source)
+[Arc Browser](https://arc.net/)-Amazing browser (Free)
 
-[AppCleaner](https://freemacsoft.net/appcleaner/) (Free)
+[SelfControl](https://selfcontrolapp.com)-Website blocker (Free)
 
-[Visual Studio Code](https://code.visualstudio.com/) (Free and open-source)
+[IINA](https://iina.io/)-Video/audio player (Free)
 
-[Espanso](https://espanso.org/) (Free and open-source)
+[AppCleaner](https://freemacsoft.net/appcleaner/)-Deletes app with all leftovers (Free)
 
-[MacGPT](https://www.macgpt.com/) (Free)
+[Visual Studio Code](https://code.visualstudio.com/)-Code editor (Free)
 
-[Mos](https://mos.caldis.me/) (Free and open-source)
+[Espanso](https://espanso.org/)-Text expander (Free)
 
-[CleanShot X](https://cleanshot.com/) (29$ or 8$ per month)
+[MacGPT](https://www.macgpt.com/)-ChatGPT but native (Free)
 
-[Rectangle](https://rectangleapp.com/) (Free and open-source)
+[Mos](https://mos.caldis.me/)-Smooth scroll (Free)
 
-[KeePass XC](https://keepassxc.org/) (Free and open-source)
+[Shottr](https://shottr.cc)-Screenshot tool (Free)
 
-[ImageOptim](https://imageoptim.com/mac) (Free and open-source)
+[ImageOptim](https://imageoptim.com/mac)-Image optimiser (Free)
 
-[PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/) (29.95$)
+[Bitwarden](https://bitwarden.com/)-Password manager (Freemium)
 
-[Bitwarden](https://bitwarden.com/) (Freemium)
+[Funter](https://nektony.com/funter)-Shows hidden files on mac (Free)
 
-[Funter](https://nektony.com/funter) (Free)
+[Hidden bar](https://apps.apple.com/us/app/hidden-bar/id1452453066) (Free)
 
-[Bartender 4](macbartender.com) (15$)
+[Multi](https://multiapp.com/)-Multiplayer Collaboration for MacOS(Free)
 
-[TextSniper](https://www.textsniper.app/) (8$ on dev. website and 12$ in Mac App Store)
+[Zoom](https://zoom.us/)-No explanation needed (Freemium)
 
-[Multi](https://multiapp.com/) (Free)
+[Al Dente](https://apphousekitchen.com/)-Charge limiter (Freemium)
 
-[Zoom](https://zoom.us/) (Freemium)
+[Keka](https://keka.io/)-The macOS file archiver (Free)
 
-[Al Dente](https://apphousekitchen.com/) (Freemium)
+[Alt-tab](https://alt-tab-macos.netlify.app/)-Alt-tab for MacOS (Free)
 
-[Stats](https://github.com/exelban/stats) (Free and open-source)
-
-[Keka](https://keka.io/) (Free and open-source)
-
-[Alt-tab](https://alt-tab-macos.netlify.app/) (Free and open-source)
-
-[Craft](https://craft.do/) (Freemium)
+[Craft](https://craft.do/)-Note-taking app (Freemium)
