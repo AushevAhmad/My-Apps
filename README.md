@@ -21,8 +21,6 @@ All my apps that i use on my mac:
 
 [MacGPT](https://www.macgpt.com/)-ChatGPT but native (Free)
 
-[Mos](https://mos.caldis.me/)-Smooth scroll (Free)
-
 [Shottr](https://shottr.cc)-Screenshot tool (Free)
 
 [ImageOptim](https://imageoptim.com/mac)-Image optimiser (Free)
