@@ -3,9 +3,9 @@ All my apps that i use on my mac:
 
 [Raycast](https://raycast.com/)-Better Spotlight(Freemium)
 
-[Pixelmator Pro](https://www.pixelmator.com/pro/)-Photo editor (25$)
+[Pixelmator Pro](https://www.pixelmator.com/pro/)-Photo editor (Paid)
 
-[Dropover](https://dropoverapp.com/)-Better drag&drop (5$)
+[Dropover](https://dropoverapp.com/)-Better drag&drop (Paid)
 
 [Spotify](https://spotify.com)-Music streaming service (Freemium)
 
@@ -17,11 +17,11 @@ All my apps that i use on my mac:
 
 [AppCleaner](https://freemacsoft.net/appcleaner/)-Deletes app with all leftovers (Free)
 
-[Cursor](https://cursor.sh/)-Code editor (Freemium)
+[Visual Studio Code](https://code.visualstudio.com)-Code editor (Freemium)
 
 [MacGPT](https://www.macgpt.com/)-ChatGPT but native (Free)
 
-[Shottr](https://shottr.cc)-Screenshot tool (Free)
+[CleanShot](https://cleanshot.com)-Screenshot tool (Paid)
 
 [ImageOptim](https://imageoptim.com/mac)-Image optimiser (Free)
 
@@ -41,4 +41,4 @@ All my apps that i use on my mac:
 
 [Alt-tab](https://alt-tab-macos.netlify.app/)-Alt-tab for MacOS (Free)
 
-[Craft](https://craft.do/)-Note-taking app (Freemium)
+[Notion](https://notion.com)-Notes, tables and more
