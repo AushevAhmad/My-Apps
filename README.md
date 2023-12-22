@@ -41,4 +41,4 @@ All my apps that i use on my mac:
 
 [Alt-tab](https://alt-tab-macos.netlify.app/)-Alt-tab for MacOS (Free)
 
-[Notion](https://notion.com)-Notes, tables and more
+[Notion](https://notion.com)-Notes, tables and more(Freemium)
