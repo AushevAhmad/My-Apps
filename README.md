@@ -17,7 +17,7 @@ All my apps that i use on my mac:
 
 [AppCleaner](https://freemacsoft.net/appcleaner/)-Deletes app with all leftovers (Free)
 
-[Visual Studio Code](https://code.visualstudio.com)-Code editor (Freemium)
+[Visual Studio Code](https://code.visualstudio.com)-Code editor (Free)
 
 [MacGPT](https://www.macgpt.com/)-ChatGPT but native (Free)
 
