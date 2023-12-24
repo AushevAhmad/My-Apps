@@ -35,6 +35,6 @@ All my apps that i use on my mac:
 
 [Rectangle](https://rectangleapp.com/)-Window management (Free)
 
-[Bartender 4](https://www.macbartender.com/)-Hide menu-bar items
+[Bartender 4](https://www.macbartender.com/)-Hide menu-bar items (Paid)
 
 [TextSniper](https://textsniper.app)-Text Recognition (Paid)
