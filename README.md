@@ -21,7 +21,7 @@ All my apps that i use on my mac:
 
 [Obsidian](https://obsidian.md/)-Writing app (Free)
 
-[Upscayl](https://www.upscayl.org/)-AI image sharpener
+[Upscayl](https://www.upscayl.org/)-AI image sharpener (Free)
 
 [IINA](https://iina.io/)-Video/audio player (Free)
 
