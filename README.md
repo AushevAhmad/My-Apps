@@ -5,13 +5,11 @@ All my apps that i use on my mac:
 
 [Pixelmator Pro](https://www.pixelmator.com/pro/)-Photo editor (Paid)
 
-[Spotify](https://spotify.com)-Music streaming service (Freemium)
-
-[Xnip](https://xnipapp.com/)-Screenshot tool (Freemium)
+[VSCodium](https://vscodium.com/)-VSCode but without Microsoft metrics
 
 [Arc Browser](https://arc.net/)-Amazing browser (Free)
 
-[Looking glass for Spotify](https://apps.apple.com/ru/app/looking-glass-for-spotify/id1629207903?mt=12)-Playback control (Free)
+[Looking glass](https://apps.apple.com/us/app/looking-glass-music-remote/id1602004436)-Playback control (Free)
 
 [Dropover](https://dropoverapp.com/)-Better Drag&Drop (Freemium)
 
@@ -21,13 +19,15 @@ All my apps that i use on my mac:
 
 [Obsidian](https://obsidian.md/)-Writing app (Free)
 
+[Recording Indicator Utility](https://github.com/cormiertyshawn895/RecordingIndicatorUtility)-Removes orange dot indicator (Free)
+
+[Cleanshot X](https://cleanshot.com)-Screenshot tool
+
 [Upscayl](https://www.upscayl.org/)-AI image sharpener (Free)
 
 [IINA](https://iina.io/)-Video/audio player (Free)
 
 [AppCleaner](https://freemacsoft.net/appcleaner/)-Deletes app with all leftovers (Free)
-
-[Cursor](https://cursor.sh)-Code editor (Free)
 
 [CleanShot](https://cleanshot.com)-Screenshot tool (Paid)
 
@@ -35,17 +35,19 @@ All my apps that i use on my mac:
 
 [Zoom](https://zoom.us/)-No explanation needed (Freemium)
 
-[Al Dente](https://apphousekitchen.com/)-Charge limiter (Freemium)
-
 [Keka](https://keka.io/)-The macOS file archiver (Free)
 
 [Alt-tab](https://alt-tab-macos.netlify.app/)-Alt-tab for MacOS (Free)
 
 [Latest](https://max.codes/latest)-Update apps with one click(Free)
 
-[Espanso](https://espanso.org/)-Text expander (Free)
+[Rectangle Pro](https://rectangleapp.com/pro)-Window management (Paid)
 
-[Rectangle](https://rectangleapp.com/)-Window management (Free)
+[Sideloadly](https://sideloadly.io/)-App sideloading for iPhone (Freemium)
+
+[Stats](https://github.com/exelban/stats)-System monitor in menubar (Free)
+
+[Pure Paste](https://sindresorhus.com/pure-paste)-Paste as plain text by default (Free)
 
 [Bartender 4](https://www.macbartender.com/)-Hide menu-bar items (Paid)
 
